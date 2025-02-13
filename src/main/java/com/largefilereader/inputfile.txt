@@ -1,0 +1,6 @@
+This is a sample line without the keyword.
+Another line here, nothing to see.
+Oops! An error occurred while processing the request.
+This is a normal line with no issues.
+ERROR: Unable to connect to the database.
+End of the file.

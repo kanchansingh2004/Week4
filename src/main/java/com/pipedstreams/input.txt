@@ -1,0 +1,4 @@
+Hello from the writer thread!
+This is a test of inter-thread communication.
+Using Piped Streams for reading and writing.
+End of the demo.
