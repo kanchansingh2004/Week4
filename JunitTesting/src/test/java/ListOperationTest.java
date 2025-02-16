@@ -34,8 +34,9 @@ public class ListOperationTest {
     @Test
     public void testGetSize() {
         list.add(5);
-        list.add(10);
+        list.add(20);
+        list.add(89);
         int size = manager.getSize(list);
-        assertEquals(2, size);
+        assertEquals(3, size);
     }
 }
