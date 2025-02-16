@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 @Target(ElementType.METHOD)
 @interface Todo {
     String task();
-    String assignedTo();   
+    String assignedTo();
     String priority() default "MEDIUM";
 }
 
